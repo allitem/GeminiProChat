@@ -1,4 +1,6 @@
 # GeminiProChat
+#Thanva Phupingbut 
+#setup v.4.0i 
 
 English | [中文](README_cn.md) | [Italiano](README_it.md) | [日本語](README_jp.md)
 
